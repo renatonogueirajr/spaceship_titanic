@@ -1,0 +1,6 @@
+# IDE configuration
+.idea/
+# Virtual environment
+venv/
+# jupyter checkpoints
+.ipynb_checkpoints/
